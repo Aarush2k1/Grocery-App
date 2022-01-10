@@ -1,6 +1,6 @@
-# product_io
+# Product_IO
 
-A new Flutter project.
+Flutter Grocery App, with dashboard for store owners.
 
 ## Getting Started
 
