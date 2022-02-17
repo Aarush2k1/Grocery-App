@@ -1,8 +1,8 @@
 # Grocery App UI
 
-Flutter Grocery App, with user and store vendor ui.
+Flutter Grocery App, with user and store vendor screens.
 
-functionality: add to cart
+Sign in with google and add to cart.
 
 # UI screenshots
 <div>
